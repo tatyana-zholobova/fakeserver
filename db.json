@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "typicode",
+      "price_current": "123"
+      "price_old": "123"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
