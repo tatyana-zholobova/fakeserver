@@ -1,9 +1,53 @@
 {
-  "products": [
-    {
-      "name": "typicode",
-      "price_current": "123"
-      "price_old": "123"
-    }
-  ]
+    "products": [
+        {
+            "name": "Стул Kongsberg, голубой",
+            "img": {
+                "30": "https://chiedocover.ru/statics/thumbnails/81/81d119ed6ebedbef962ec9587db71fd6.jpg",
+                "40": "https://chiedocover.ru/statics/thumbnails/02/02c1f920871cbb99d824c007ff247f98.jpg",
+                "60": "https://chiedocover.ru/statics/thumbnails/34/3436f6968bb2205f12145e0943b67d4d.jpg"
+            },
+            "price_old": 7790,
+            "price": 10000,
+            "count": 4
+            "link": "https://chiedocover.ru/product/stul-kongsberg-goluboy"
+        },
+        {
+            "name": "Стул Хит 25мм - золото, корона красная",
+            "img": {
+                "56": "https://chiedocover.ru/statics/thumbnails/9c/9cbd6bd48892a136cc2941783a1fae6e.jpg",
+                "112": "https://chiedocover.ru/statics/thumbnails/d9/d99abbf8af2ec721dd65ae28b4497572.jpg",
+            },
+            "price": 2150,
+            "count": 0
+            "link": "https://chiedocover.ru/product/khit-25mm-zoloto-korona-krasnaya"
+        },
+        {
+            "name": "Стол Лидер 2, 1800x900, орех, черный",
+            "img": {
+                "56": "https://chiedocover.ru/statics/thumbnails/9c/9cbd6bd48892a136cc2941783a1fae6e.jpg",
+                "112": "https://chiedocover.ru/statics/thumbnails/d9/d99abbf8af2ec721dd65ae28b4497572.jpg",
+            },
+            "price": 4290,
+            "link": "https://chiedocover.ru/product/stol-lider-2-1800x900-orekh-chernyy"
+        },
+        {
+            "name": "Стул-кресло Самба, синий",
+            "img": {
+                "56": "https://chiedocover.ru/statics/thumbnails/9c/9cbd6bd48892a136cc2941783a1fae6e.jpg",
+                "112": "https://chiedocover.ru/statics/thumbnails/d9/d99abbf8af2ec721dd65ae28b4497572.jpg",
+            },
+            "price": 4490,
+            "link": "https://chiedocover.ru/product/stul-kreslo-samba-siniy"
+        },
+        {
+            "name": "Стул Роквелл",
+            "img": {
+                "56": "https://chiedocover.ru/statics/thumbnails/9c/9cbd6bd48892a136cc2941783a1fae6e.jpg",
+                "112": "https://chiedocover.ru/statics/thumbnails/d9/d99abbf8af2ec721dd65ae28b4497572.jpg",
+            },
+            "price": 9590,
+            "link": "https://chiedocover.ru/product/stul-rokvell"
+        }
+    ]
 }
